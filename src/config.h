@@ -7,8 +7,8 @@
 #define SCL_PIN GPIO_NUM_12
 
 // ==================== WIFI CONFIGURATION ====================
-constexpr char WIFI_SSID[] = "ACLAB";
-constexpr char WIFI_PASSWORD[] = "ACLAB2023";
+constexpr char WIFI_SSID[] = "Iphone 15";
+constexpr char WIFI_PASSWORD[] = "123123123";
 
 // ==================== THINGSBOARD CONFIGURATION ====================
 constexpr char TOKEN[] = "y8m225l6zv297aarday2";
